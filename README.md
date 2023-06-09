@@ -1,4 +1,4 @@
-# 8-Bit-DES
+# 8-Bit-DES.
 
   DES-Data Encryption Standard.
   
