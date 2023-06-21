@@ -1,4 +1,4 @@
-                                                #8 bit DES
+                                                #8 bit DES 
 operation=int(input("Encryption-1 or Decryption-2 "))
 text=list(map(int,input("text ").split()))
 ip=list(map(int,input("ip ").split()))
